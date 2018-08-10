@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    margin: 0 auto;
+}
+.post_box{
+}
+.post_box .image{
+    width: 100%;
+    min-height: 200px;
+    max-height: 200px;
+    overflow: hidden;
+}
+.post_box .img img{
+  width: 100%;
+}
+
+/* ======================== answered.php ======== */
+.global{
+  background-color: #eeee;
+  width: 800px;
+  height: auto;
+}
+.global #question_frame{
+}
+
+/* ========================end of design answered.php ======== */
